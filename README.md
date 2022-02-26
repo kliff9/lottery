@@ -10,4 +10,6 @@
 
 ◼ Solidity - An object-oriented, high-level language for implementing smart contracts. 
 
+◼ Remix - Suite of tools for smart contracts
+
 
